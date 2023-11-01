@@ -1,0 +1,10 @@
+# ignore files by extensions
+*.o
+*.x
+*.exe
+
+# ignore directories by name
+__pycache__/
+.env/
+venv/
+env/
